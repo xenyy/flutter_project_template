@@ -1,0 +1,14 @@
+{
+  "login_start": "Below are list of strings for login es ",
+  "login_title": "Bienvenid@ a AppName",
+  "login_et_user_email": "Ingrese el correo electrónico del usuario",
+  "login_et_user_password": "Introducir la contraseña",
+  "login_btn_forgot_password": "¿Se te olvidó tu contraseña",
+  "login_btn_sign_in": "Registrarse",
+  "login_error_fill_fields": "Por favor complete todos los campos e",
+  "login_end": "------------------------------------------------------------------------------------",
+
+  "home_start": "Below are list of strings for home",
+  "home_choose_language": "Escoge idioma",
+  "home_end": "-------------------------------------------------------------------------------------"
+}
